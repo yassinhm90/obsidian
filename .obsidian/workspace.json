@@ -23,12 +23,8 @@
             "id": "6bf4ad1736fad085",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gfdgdf.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gfdgdf.md",
+                "file": "math/l'ensemble N et notion d'arithmetique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gfdgdf.md",
+                "file": "math/l'ensemble N et notion d'arithmetique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gfdgdf.md"
+                "file": "math/l'ensemble N et notion d'arithmetique.md"
               }
             }
           }
