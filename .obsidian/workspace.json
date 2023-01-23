@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6bf4ad1736fad085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gfdgdf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/calcule vecteuriel.md",
+                "file": "gfdgdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/calcule vecteuriel.md",
+                "file": "gfdgdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/calcule vecteuriel.md"
+                "file": "gfdgdf.md"
               }
             }
           }
@@ -184,7 +197,7 @@
       }
     ]
   },
-  "active": "6fdaedfac3b1e58a",
+  "active": "afe4847255e2de54",
   "lastOpenFiles": [
     "math/l'ensemble N et notion d'arithmetique.md",
     "math/calcule vecteuriel.md",
