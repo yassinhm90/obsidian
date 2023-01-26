@@ -1,4 +1,4 @@
-# # LES DIFFIRENTS ENSEMBLES 
+LES DIFFIRENTS ENSEMBLES 
 
 - N: L'ensembles des entiers naturels 
              N={0,1,2,3,4,5.......................}
@@ -29,4 +29,3 @@ le nombre a est appele puissance de a d'exposant n
 
 4) les identite remarquable 
 ![[Pasted image 20230123165753.png]]
-
