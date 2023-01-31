@@ -47,5 +47,6 @@ L' equation y = mx + p est appelle l'equation reduite de la droite ( D )
 - si y = mx + p est l' equation reduite d'une droite ( D )
 ALORS la droit ( D ) passe par le point A ( O ; P ) est derige par le vecteur $\overrightarrow {U}$  ( 1 ; M )
 
-# EXERCICE
+# [[EXERCICE]] 
+
 

@@ -57,5 +57,5 @@ soit x un nombre reel on appelle la valeur absolue de x le nombre positif notee 
 - |x| < r equivaut -r < x < r 
 - |x| >= r equivaut x <= -r ou x>= r 
 
-# EXERCICE 
+# [[EXERCICE]]  
 

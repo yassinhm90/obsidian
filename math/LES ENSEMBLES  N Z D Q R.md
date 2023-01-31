@@ -29,3 +29,5 @@ le nombre a est appele puissance de a d'exposant n
 
 4) les identite remarquable 
 ![[Pasted image 20230123165753.png]]
+
+[[APPLICATION ]]
