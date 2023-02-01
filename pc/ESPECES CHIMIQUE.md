@@ -24,3 +24,33 @@ pour les separes , on ajoute le soulvant : cyclohescane
 En vers le distillat et le cyclohescane dans une ampoule a decanter
 
 ![[149160.gif]]
+### SEPARATION ET DENTIFIATION D'ESP. CH 
+En utilise la techniquede chromatographie sur couche mince (C.C.M) 
+-                              un solvand dans un becher 
+- En a besoin de :    
+-                              une plaque sur la quel on depose esp. ch a analyser 
+- en met la plaque dans le becher 
+
+ ![[Pasted image 20230201144102.jpg]]
+ 
+	H : hauteur attente par solvant 
+	R : //     //     //    //  la tache de l'esp . ch 
+$Rf= R/M$  **rapprot frantal**
+en calcule Rf et on le compart avec les valeur de Rf des esp. ch connu pour indentifie l'esp. ch a analyser 
+#### REMARQUE 
+Il ya d'autre methode simple pour identifie l'esp. ch cpmme : la coleur ; temperature de fusion , debolution d'ensite : d=e/e'
+```python
+e : masse volimique du corps
+e': MASSE VOLIMIQUE DE L'EAU 
+```
+
+## SYNTHESE DES ESP. CH 
+
+- LE SYNTHESE DE ESP .CH EST LE RESULTAT DU REACTION CHIMIQUE ENTREDES REATIFS 
+- Les synthese conduit soit a :
+```python
+une esp.ch sont blable a une esp.ch naturel (le miel)
+une nouvel esp.ch qui na pas de son blable dans la nature on dit artificiel(midicale
+```
+
+# [[EXERCICE ]]
