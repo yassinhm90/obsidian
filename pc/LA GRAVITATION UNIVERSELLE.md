@@ -37,4 +37,22 @@ En utilise les unites de systeme internationale (S.I)
 ```
 La constante de gravitation universelle est toujours egale G
 G= $6,67.10^{-11} N.m^{2}.Kg^{-2}$  
-  
+### INTERATION DE DEUX CORPS NON PONCTUELS
+
+![[Pasted image 20230202202908.png]]
+L'intensite de la force d'intraction entre A ET B 
+$F=G.ma.mb/d^{2}$ 
+```python
+d:la distance qui seppare leur centre 
+
+```
+### INTERATION ENTRE UN CORP NON PONCTUEL ET UN CORP PONCTUEL
+Intensite de la force d'intraction entre un corp A de masse Ma et la terre Mt et de rayon Rt
+$F=G.ma.mt/(Rt+R)^{2}$ avec R l'altitude 
+### L'intensite de pesanteur      
+pour un corp ma soumis a la traction terestre on a $F=G.Ma.Mr/(Rt.h)^{2}$ 
+le poid d'un corp (ma) : s'est la ctuen de la terre sur ma 
+**$P=Ma.g$    et   $F=G.Ma.Mt/(Ra+h)^{2}$*** 
+donc : P=F 
+ma og = $G.Ma.Mt/(Rt.h)^{2}$ 
+gr = $G.Mt/(Rt+h)^{2}$ 
