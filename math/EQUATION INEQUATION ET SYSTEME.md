@@ -7,6 +7,7 @@ on considere l'equation $ax+b+0$ , x est l'inconnue
 - si a diffirent de 0 alors l'equation admet l'unique solution $^-b/_a$ d'ou s= {$^-b/_a$}
 - si a=0 et b diffirent de 0 alors il n'existe aucun reelnverifiant l'equation , donc l'equation n'admet pas de solution dans R d'ou S={$\phi$}
 - si a=0 et b=0 alorstout nombre reel est solution de l'equation d'ou S=R
+
 ## [[APPLICATION]] 
 
 ## INEQUATION DU PREMIER DEGRE A UNE ICONNUE 
