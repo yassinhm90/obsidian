@@ -47,3 +47,43 @@ Pour tout reel x diffirent de $\pi/2 + k\pi$ avec k appartient a z
 - $1+tan(x) = 1/cos(x)$ 
 - $tan(x + k\pi)= tan(x)$ 
 [[EX]] 
+3) LES VALEUR REMARQUABLES DES ANGLES USUELLES 
+- TABLEAU DE VALEUR USUELLE
+![[Pasted image 20230218182950.png]]
+4) LES RELATION TRIGONOMETRIQUE 
+- relation entre -x et x 
+
+	cos -x = cos x
+	sin -x = -sin x
+	tan -x = -tanx
+
+
+- relation entre $\pi$/2 -x et x
+
+
+	cos ( $\pi/2 - x$ ) = sin x
+	sin ( $\pi/2 - x$  ) = cos x 
+	tan ( $\pi/2 - x$  ) = 1/tan x
+
+
+- relation entre  $\pi/2$  + x  et  x
+
+	cos ( $\pi/2 + x$ ) = -sin x 
+	sin ( $\pi/2 + x$ ) = cos x 
+	tan ( $\pi/2 + x$ ) = -1/tan x
+
+  
+- relation entre  $\pi$ - x et x
+
+	cos ( $\pi - x$ ) = -cos x 
+	sin ( $\pi - x$ ) = sin x 
+	tan ( $\pi - x$ ) = -tan x
+
+
+- relation entre $\pi$ + x et x
+
+	cos ( $\pi + x$ ) = -cos x
+	sin ( $\pi + x$ ) = -sin x
+	tan ( $\pi + x$ ) = tan x
+
+[[ SERIE D'EXERCICES]]
