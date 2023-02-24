@@ -48,3 +48,45 @@ cos x = $3 sin^{2}x$ = 3cosx
 sin x = tan$x$ x cos$x$ 
 sin x = 1/3 x $3 cosx$ 
 sin x = - sin (x) = -cos x 
+![[Pasted image 20230224155953.png]]
+1) on a $cos^{2}x$ = 1-$sin^{2}x$ 
+$cos^{2}x$ = 1-(-4/5)
+$cos^{2}x$ =9/5
+on sait que tanx=sinx/cosx
+tan x = -4/5 / 9/5 = -4/9 
+2) on a 
+$cos^{2}x$ = 1-$sin^{2}x$ 
+= 1-$\sqrt{2/3}$ 
+cos x = 3-$\sqrt{6}$ / 3
+tan x = sin x / cox x 
+tan x = $\sqrt{6}$ + 2
+3) ona tan x = sin x / cos x
+et 1+tan x = 1/cos x
+1/cos x = 1+$2\sqrt{3}$ 
+cos x = -1-$2\sqrt{3}$ 
+et sin x = $tanx.cosx$  
+sin x = $\sqrt{2/3}$ . 1-$2\sqrt{3}$ 
+sin x = $\sqrt{6}$ -6$\sqrt{3}$ /3
+
+![[Pasted image 20230224162858.png]]
+A = sin ($\pi-x$ ) x cos ( $\pi/2 - x$) - sin ($\pi/2 - x$) x cos($\pi-x$ ) 
+a = sin(x) . sin (x) - cos x (-cos(x))
+a = $sin^{2}x + cos^{2}x$ 
+a = 1 
+B = sinx+sinx / -cos x
+b = 2sinx / -cos x 
+C= 
+cos ($\pi/2 + \pi/3$ ) + sin($\pi/2 + \pi/3$ ) - tan($\pi/2 + \pi/3$ )
+c= -sin x + cos x - (-1/tanx)
+D= 
+sin ($\pi - x$ ) + cos ($\pi+x$ ) + cos($\pi-x$ )
+d = sin x - cos x - cos x 
+d = sin x - 2cos x
+e= 
+tan ($\pi-x$  ) + tan ($\pi+x$ )
+e = -tan x +tan x 
+e = 0
+H= $sin^{2}$ ($\pi/8$ ) + $sin^{2}$ ($3\pi/8$ ) +$sin^{2}$ {$\pi/2 + \pi/8$ } + $sin^{2}$ + ($\pi/2 + 3\pi/8$ )
+H=$sin^{2}$ ($\pi/8$ ) + $sin^{2}$ ($3\pi/8$ )  + $cos^{2}$ ($\pi/8$) + $cos^{2}$ ($3\pi/8$)
+h = 1 + 1 
+h = 2 
